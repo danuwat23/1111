@@ -10,7 +10,7 @@
 ========================================================= */
 
 const DATA_PATH =
-    "../../data/cleaned/online_cleaned.csv";
+    "online_cleaned.csv";
 
 
 
